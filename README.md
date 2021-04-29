@@ -34,9 +34,6 @@
          </p>
        <img src="https://github.com/Aidan182003/Music-is-our-life/blob/main/%D1%80%D0%BE%D1%8F%D0%BB%D1%8C.jpeg"width="600" height="499">
      https://github.com/Aidan182003/Music-is-our-life2
-     <footer>
-              Дарья Чугунова 9Б
-        </footer>
      </body>
    <html>
     
